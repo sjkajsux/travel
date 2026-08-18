@@ -1,0 +1,62 @@
+[
+  {
+    "content": "Fase 2A: POC scripts/test_core_cms_cw2.py HIJAU (87/87)",
+    "status": "completed"
+  },
+  {
+    "content": "Fase 2B: Wiring publik — route /packages, /packages/:slug, /promo, /review/:token di App.js",
+    "status": "completed"
+  },
+  {
+    "content": "Fase 2B: PublicLayout — menu Paket + Promo, LanguageSwitch (ID/EN), sync ?lang=, header 1 baris (91,25px)",
+    "status": "completed"
+  },
+  {
+    "content": "Fase 2B: useSEO hreflang + og:locale + html[lang]; PackageDetail empty-state (ux_audit 0 ERROR)",
+    "status": "completed"
+  },
+  {
+    "content": "Fase 2C: ContentManager — filter status, badge status/EN, tautan pratinjau bertoken, publicPath A1",
+    "status": "completed"
+  },
+  {
+    "content": "Fase 2C: ContentFormDialog — tab Indonesia/English/Terbit (CMS-05 + CMS-06)",
+    "status": "completed"
+  },
+  {
+    "content": "Fase 2C: Editor rich text artikel (CMS-09) + ArticleBody render aman di BlogDetail",
+    "status": "completed"
+  },
+  {
+    "content": "Fase 2C: Form aturan promo lengkap + used_count read-only (A2) + endpoint meta/promo-options",
+    "status": "completed"
+  },
+  {
+    "content": "Fase 2C: Tab Ulasan (CMS-07) + tab Analitik Konten (CMS-08) di CMS",
+    "status": "completed"
+  },
+  {
+    "content": "Perbaikan bug ditemukan sendiri: BUG-0128 purge tanpa id, BUG-0129 bleach, BUG-0130 isi script, BUG-0131 render artikel",
+    "status": "completed"
+  },
+  {
+    "content": "Fase 2D: SSOT docs (03/04/05/10) + DELIVERY_MANIFEST + BUG_REGISTRY + test_credentials + CMS plan status",
+    "status": "completed"
+  },
+  {
+    "content": "Fase 2D: gate.sh HIJAU pasca-perubahan dokumen/guardrail",
+    "status": "in_progress"
+  },
+  {
+    "content": "Fase 2D: testing_agent_v3 uji 9 user story Fase 2 & perbaiki semua temuan",
+    "status": "pending"
+  },
+  {
+    "content": "Fase 3: EN chrome halaman storefront (Home/Fleet/Destinations/Blog) + polish",
+    "status": "pending"
+  },
+  {
+    "content": "Fase 3: gate.sh HIJAU + testing_agent_v3 putaran 2 + update SESSION_HANDOFF/plan.md",
+    "status": "pending"
+  }
+]
